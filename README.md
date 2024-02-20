@@ -29,7 +29,6 @@
             </ul>
         </nav>
         <article>
-            </ul>
             <div class="card">
                 <div class="card-text">
                     <img src="M:\PROGIALAPOK\1_WEBSZERKESZTÉS\cards\Képernyőkép 2024-01-25 094517.png" alt="card image">
@@ -58,10 +57,3 @@
 </body>
 
 </html>
-
-
-  ul{
-    margin: 0;
-    padding: 0%;
-
-  }
